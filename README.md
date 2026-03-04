@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Backend+Engineer.;AI+%2F+ML+Enthusiast.;Building+things+that+think.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Blockchain+Validator.;AI+%2F+ML+Enthusiast.;Building+things+that+think.)](https://git.io/typing-svg)
 
 </div>
 
