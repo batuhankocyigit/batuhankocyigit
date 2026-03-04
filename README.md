@@ -17,20 +17,20 @@ class Me:
 
 ---
 
-**Nelerle ilgileniyorum**
+**What I care about**
 
-- Büyük dil modelleri ve onları kullanışlı hale getirme
-- Ölçeklenebilir backend mimarileri
-- Veri pipeline'ları ve model servis altyapıları
+- Large language models and making them actually useful
+- Scalable backend architectures
+- Data pipelines and model serving infrastructure
 
 ---
 
-**Bulunabileceğin yerler**
+**Where to find me**
 
-[LinkedIn](https://linkedin.com/in/batuhankocyigit220) · [X / Twitter](https://x.com/batu0x25) · [E-posta](mailto:batuhankocyigit@flybvlostechnology.com)
+[LinkedIn](https://linkedin.com/in/batuhankocyigit220) · [X / Twitter](https://x.com/batu0x25) · [E-mail](mailto:batuhankocyigit@flybvlostechnology.com)
 
 ---
 
 <div align="center">
-<sub>az yaz, çok düşün.</sub>
+<sub>write less, think more.</sub>
 </div>
