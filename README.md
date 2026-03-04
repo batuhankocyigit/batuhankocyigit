@@ -27,7 +27,7 @@ class Me:
 
 **Where to find me**
 
-[LinkedIn](https://linkedin.com/in/batuhankocyigit220) · [X / Twitter](https://x.com/batu0x25) · [E-mail](mailto:batuhankocyigit@flybvlostechnology.com)
+[LinkedIn](https://linkedin.com/in/batuhankocyigit220) · [X / Twitter](https://x.com/batu0x25) · [E-mail](mailto:batuhan.kocyigit@flybvlostechnology.com)
 
 ---
 
